@@ -9,7 +9,7 @@ A website that offers Search Engine Optimization services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://aubree-alexander.github.io/horiseon-challenge/
 
 ## Contribution
 Made by Aubree Alexander
