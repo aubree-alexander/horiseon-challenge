@@ -11,5 +11,8 @@ A website that offers Search Engine Optimization services.
 ## Website
 https://aubree-alexander.github.io/horiseon-challenge/
 
+## Screenshot
+<img src="./assets/images/horiseon-screenshot.png" />
+
 ## Contribution
 Made by Aubree Alexander
