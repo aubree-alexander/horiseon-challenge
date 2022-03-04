@@ -12,7 +12,7 @@ A website that offers Search Engine Optimization services.
 https://aubree-alexander.github.io/horiseon-challenge/
 
 ## Screenshot
-<img src="./assets/images/horiseon-screenshot.png" />
+<img src="./assets/images/horiseon-screenshot-2.png" />
 
 ## Contribution
 Made by Aubree Alexander
